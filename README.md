@@ -1,3 +1,8 @@
+# This is a Fork with a Config for a AnyCubic Kosel Pully and a Trigorilla 1.1 Board. 
+
+I will ony Update this if i make changes to my Kosel
+
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
